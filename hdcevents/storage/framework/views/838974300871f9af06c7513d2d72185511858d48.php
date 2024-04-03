@@ -1,0 +1,1 @@
+<h1> Tela de Produtos <h1><?php /**PATH C:\Users\Toledo\OneDrive\Área de Trabalho\ProjectsPHP\Laravel\hdcevents\resources\views/products.blade.php ENDPATH**/ ?>
